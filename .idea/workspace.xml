@@ -1,30 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f63dbb-0b68-423c-9e64-bccde0eeeaa6" name="Changes" comment="" />
+    <list default="true" id="f9f63dbb-0b68-423c-9e64-bccde0eeeaa6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/0676281e-eaf6-411d-b3d5-cee8447c399f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/0cd2229c-621d-4b90-9a86-8180b8e51190-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/0e9fb5f1-edf6-4834-89a8-2eadd1b8f9d3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/0f1c2a5c-ed4d-44b1-9e2f-f5c88e21d822-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/12a45f3c-b1d4-418b-8fb7-ead40661413d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/1945f9cd-5e7b-43f7-999e-312582073a1e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/1aed6430-12eb-431c-8ea3-f9f88ae7a475-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/201c1a54-555a-4109-9bf0-d2b400dc271e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/2449495f-3e5d-47d4-9056-8787146997fe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/2fd59157-0f3f-46e8-99bf-ecd5f8f09e5c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/31761ddd-77d8-454c-b71c-f0e7e3bec7d5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/33e3579d-adbb-493f-9df1-2f8792c93ea9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/3965ede5-8417-4846-8842-58f48ea8f23f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/4350dcaf-3d89-4da2-861f-6e9c329c968a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/437c3d77-19cb-45bc-b44c-4d03ddc3dc66-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/4512e188-5132-4c96-ba03-ea02efb93bd9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/5850e466-ec9d-4305-bc4d-ea1d6c38998a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/588b1f35-b48f-4ce8-8c7a-e45bb5ce32e7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/5a9e6734-cd11-480d-8f95-149a0c68da98-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/5fae5724-4406-4a24-a263-10d88abe562f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/5fed60d7-d8ab-408a-9f11-f6e0cf3d40cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/671419d5-68a4-4cea-b613-88182ec7fd82-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/6baeebb5-28b3-499b-ad9c-7c6651f7a20e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/6e406616-e288-4738-9571-3af1343ea40a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/6f027629-4b3c-4eb4-a7ef-75a99d621c9e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/711ed934-1a92-4ae5-9e68-ad97965a0173-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/83fcdcef-9eef-48fc-a1e0-c9bfe48e706f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/85721391-ee81-46fb-b34c-ccf46a576b91-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/8e9f4ff0-9e72-4c03-b21a-c4fd42e1f519-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/8f7cc22a-c6c4-4e36-a05a-b695d3a341f5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/934e5931-69ad-4f64-9d2e-f00e602e98b9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/994f2bd3-6dc4-404e-8fa3-9696d14d8d9e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/9b4b4f38-7592-4017-b6e4-db93815c7aa6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/9b557139-9cbe-4315-aa59-fd00a648ea75-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/9f321449-06b4-4225-80c7-1e6abce3234f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/a66df6cf-bd1a-48ed-b93f-95823c3cf302-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/a8327bcf-c420-4337-9ec1-b3d346b4d955-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/a96aadf3-65ce-4a4d-a19b-a84f41ef4f01-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/babd84b4-94a6-449d-846b-0e7c9617b572-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/bbb34e16-ca1d-4db0-aa89-94ad16e93452-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/be8fb139-16e0-47b8-9223-b8eeb70143f9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/bf885321-cd42-43d6-a1e3-a5034bfbeadd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/c07d43b8-5d26-4b6c-930b-fc6686ed1e88-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/c59a8820-1df3-49df-9390-ec487f97fe53-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/c9ce293c-915b-4ce9-a80a-50bde9bd3794-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/d518cf91-f491-4c6a-8afa-124e887f7c4b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/dd37ab9f-f200-4abb-9ed9-7103705d3c90-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/dd8e2747-ef33-409d-96c6-4e0085687049-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/e1c11165-ee9a-47ee-8024-2310901657ca-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/e5884ca2-dd37-42ea-b302-c5242dbbb67a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/ea4ded48-121f-4d49-8ab9-9b27a7caf95b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/eb53529c-43e5-4801-8d31-8554de91d891-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/ecbf0498-9819-4ae9-a222-b836b2de16b1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/ee3aa8bd-7bcf-44c9-b8f7-380d1e7209a1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/f75ed93a-ee34-4e8b-a7d9-4f9f2e3199f4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/allure-results/fe5d3aa2-f017-4ae9-81ef-817491496a1d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Katalon_login_tests/test_appointment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/constants/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/page_objects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/page_objects/appointment_confirmation_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/page_objects/appointment_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/page_objects/home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/page_objects/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SrivalliChaturvedula&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SrivalliChaturvedula/WebAutomationFramework2.git&quot;,
+    &quot;accountId&quot;: &quot;1f82a735-6258-46ae-b4d9-1c0ea285052b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2pjlklJTy1jY1E0nhthKsUlYHe1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_appointment.test_katalon_appointment_comment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_appointment.test_katalon_appointment_comment" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationFramework2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/Katalon_login_tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_appointment.test_katalon_appointment_comment&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_appointment.test_katalon_appointment_comment" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,5 +165,11 @@
       <updated>1733287511079</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
